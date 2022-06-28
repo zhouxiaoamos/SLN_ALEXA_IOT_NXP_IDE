@@ -1,0 +1,61 @@
+{
+    "event": {
+        "header": {
+            "namespace": "Alexa.Discovery",
+            "name": "AddOrUpdateReport",
+            "payloadVersion": "3",
+            "messageId": "notused",
+            "eventCorrelationToken": "notused"
+        },
+        "payload": {
+            "endpoints": [
+                {
+                    "endpointId": "notused",
+                    "registration": {
+                        "productId": "notused",
+                        "deviceSerialNumber": 0
+                    },
+                    "manufacturerName": "NXP Semiconductors",
+                    "description": "NXP Smart Home Development Kit",
+                    "friendlyName": "",
+                    "displayCategories": ["LIGHT", "ALEXA_VOICE_ENABLED"],
+                    "capabilities": [
+                        {
+                            "type": "AlexaInterface",
+                            "interface": "Alexa.PowerController",
+                            "version": "3",
+                            "properties": {
+                                "supported": [
+                                    {
+                                        "name": "powerState"
+                                    }
+                                ],
+                                "proactivelyReported": true,
+                                "retrievable": true
+                            }
+                        },
+                        {
+                            "type": "AlexaInterface",
+                            "interface": "Alexa.BrightnessController",
+                            "version": "3",
+                            "properties": {
+                                "supported": [
+                                    {
+                                        "name": "brightness"
+                                    }
+                                ],
+                                "proactivelyReported": true,
+                                "retrievable": true
+                            }
+                        },
+                        {
+                            "type": "AlexaInterface",
+                            "interface": "Alexa",
+                            "version": "3"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

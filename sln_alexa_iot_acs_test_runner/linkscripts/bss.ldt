@@ -1,0 +1,6 @@
+<#if memory.name=="SRAM_OC_NON_CACHEABLE">
+        */sln_shell.o(.bss.*)
+        */fsl_debug_console.o(.bss.s_debugConsoleState)
+        */fsl_tfa9xxx.o(.bss.s_devs)
+        */dns.o(.bss.dns_table)
+</#if>

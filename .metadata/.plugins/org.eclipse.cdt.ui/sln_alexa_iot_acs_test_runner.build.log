@@ -1,0 +1,7 @@
+11:01:03 **** Clean-only build of configuration Debug for project sln_alexa_iot_acs_test_runner ****
+make -r -j8 clean 
+make: *** No rule to make target 'clean'.  Stop.
+"make -r -j8 clean" terminated with exit code 2. Build might be incomplete.
+
+11:01:03 Build Failed. 1 errors, 0 warnings. (took 769ms)
+

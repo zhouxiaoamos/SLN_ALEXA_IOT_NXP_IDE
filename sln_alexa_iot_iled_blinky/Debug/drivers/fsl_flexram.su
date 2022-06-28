@@ -1,0 +1,6 @@
+../drivers/fsl_clock.h:1063:20:CLOCK_ControlGate	32	static
+../drivers/fsl_clock.h:1080:20:CLOCK_EnableClock	16	static
+../drivers/fsl_clock.h:1090:20:CLOCK_DisableClock	16	static
+../drivers/fsl_flexram.c:46:17:FLEXRAM_GetInstance	24	static
+../drivers/fsl_flexram.c:69:6:FLEXRAM_Init	16	static
+../drivers/fsl_flexram.c:88:6:FLEXRAN_Deinit	16	static

@@ -1,0 +1,11 @@
+11:11:00 **** Incremental Build of configuration Debug for project sln_alexa_iot_iled_blinky ****
+make -r -j8 all 
+make[1]: Nothing to be done for 'main-build'.
+Performing post-build steps
+arm-none-eabi-size "sln_alexa_iot_iled_blinky.axf"; # arm-none-eabi-objcopy -v -O binary "sln_alexa_iot_iled_blinky.axf" "sln_alexa_iot_iled_blinky.bin" ; # checksum -p MIMXRT106AxxxxA -d "sln_alexa_iot_iled_blinky.bin";
+   text	   data	    bss	    dec	    hex	filename
+  22928	      4	   8480	  31412	   7ab4	sln_alexa_iot_iled_blinky.axf
+ 
+
+11:11:03 Build Finished. 0 errors, 0 warnings. (took 2s.976ms)
+

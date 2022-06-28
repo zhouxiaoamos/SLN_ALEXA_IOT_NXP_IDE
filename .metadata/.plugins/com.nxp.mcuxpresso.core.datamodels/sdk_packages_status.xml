@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sdk-packages>
+<package hash="1648448406000" path="D:\nxp\MCUXpressoIDE_11.5.0_7232\ide\plugins\com.nxp.mcuxpresso.sdk.sdk_2.x_mimxrt1060-evkb_2.11.1.201911251446\sdks\a92e92ad7374a4c194aecd632fffcd1b.zip" schema="manifest-schema/sdk_manifest_v3.9.xsd"/>
+<package hash="1623729610000" path="D:\nxp\MCUXpressoIDE_11.5.0_7232\ide\plugins\com.nxp.mcuxpresso.sdk.sdk_2.x_sln-alexa-iot_2.8.1.201911251446\sdks\ad2f474bf91862c7c508642ccfb7ccc2.zip" schema="manifest-schema/sdk_manifest_v3.7.xsd"/>
+</sdk-packages>

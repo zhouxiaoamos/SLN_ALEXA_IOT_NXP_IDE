@@ -1,0 +1,5 @@
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_iled_blinky\CMSIS/core_cm7.h:2032:22:__NVIC_SetPriority	16	static
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_iled_blinky\CMSIS/core_cm7.h:2618:26:SysTick_Config	16	static
+../source/led_blinky.c:38:6:SysTick_Handler	4	static
+../source/led_blinky.c:46:6:SysTick_DelayTicks	16	static
+../source/led_blinky.c:57:5:main	8	static

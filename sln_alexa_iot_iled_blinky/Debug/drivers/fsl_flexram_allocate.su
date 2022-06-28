@@ -1,0 +1,4 @@
+../drivers/fsl_flexram_allocate.h:75:20:FLEXRAM_SetAllocateRamSrc	16	static
+../drivers/fsl_flexram_allocate.c:38:16:FLEXRAM_MapTcmSizeToRegister	24	static
+../drivers/fsl_flexram_allocate.c:70:6:FLEXRAM_SetTCMSize	16	static
+../drivers/fsl_flexram_allocate.c:108:10:FLEXRAM_AllocateRam	32	static

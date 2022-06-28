@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "clock_config.h": "c",
+        "usb_device_config.h": "c",
+        "usb.h": "c",
+        "usb_device.h": "c",
+        "serial_port_usb.h": "c"
+    }
+}
