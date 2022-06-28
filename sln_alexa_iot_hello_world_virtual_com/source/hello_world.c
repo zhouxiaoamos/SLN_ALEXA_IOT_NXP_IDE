@@ -4,6 +4,7 @@
  * All rights reserved.
  *
  * SPDX-License-Identifier: BSD-3-Clause
+ * 提交至github
  */
 
 #include "fsl_device_registers.h"
