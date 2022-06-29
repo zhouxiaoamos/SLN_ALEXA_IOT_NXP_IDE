@@ -1,0 +1,16 @@
+../lwip/src/apps/sntp/sntp.c:371:1:sntp_retry	8	static
+../lwip/src/apps/sntp/sntp.c:558:1:sntp_send_request	16	static
+../lwip/src/apps/sntp/sntp.c:621:1:sntp_request	24	static
+../lwip/src/apps/sntp/sntp.c:597:1:sntp_dns_found	8	static
+../lwip/src/apps/sntp/sntp.c:454:1:sntp_recv	24	static
+../lwip/src/apps/sntp/sntp.c:666:1:sntp_init	16	static
+../lwip/src/apps/sntp/sntp.c:705:1:sntp_stop	16	static
+../lwip/src/apps/sntp/sntp.c:726:6:sntp_enabled	0	static
+../lwip/src/apps/sntp/sntp.c:737:1:sntp_setoperatingmode	8	static
+../lwip/src/apps/sntp/sntp.c:750:1:sntp_getoperatingmode	0	static
+../lwip/src/apps/sntp/sntp.c:763:1:sntp_getreachability	0	static
+../lwip/src/apps/sntp/sntp.c:796:1:sntp_setserver	0	static
+../lwip/src/apps/sntp/sntp.c:877:1:sntp_getserver	0	static
+../lwip/src/apps/sntp/sntp.c:894:1:sntp_getkodreceived	0	static
+../lwip/src/apps/sntp/sntp.c:914:1:sntp_setservername	0	static
+../lwip/src/apps/sntp/sntp.c:933:1:sntp_getservername	0	static

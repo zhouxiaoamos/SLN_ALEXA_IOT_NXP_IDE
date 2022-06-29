@@ -1,0 +1,14 @@
+../source/audio_processing_task.c:161:6:audio_processing_set_task_handle	0	static
+../source/audio_processing_task.c:166:14:audio_processing_get_task_handle	0	static
+../source/audio_processing_task.c:171:6:audio_processing_set_queue_handle	0	static
+../source/audio_processing_task.c:179:6:audio_processing_set_mic_input_buffer	0	static
+../source/audio_processing_task.c:187:6:audio_processing_set_amp_input_buffer	0	static
+../source/audio_processing_task.c:195:10:audio_processing_get_continuous_utterance	24	static
+../source/audio_processing_task.c:239:10:audio_processing_get_output_buffer	16	static
+../source/audio_processing_task.c:267:10:audio_processing_get_wake_word_end	0	static
+../source/audio_processing_task.c:272:6:audio_processing_set_state	8	static
+../source/audio_processing_task.c:278:29:audio_processing_get_state	0	static
+../source/audio_processing_task.c:283:17:audio_processing_get_mic_mute	0	static
+../source/audio_processing_task.c:288:10:audio_processing_set_mic_mute	32	static
+../source/audio_processing_task.c:333:6:audio_processing_stop_task	0	static
+../source/audio_processing_task.c:338:6:audio_processing_task	80	static

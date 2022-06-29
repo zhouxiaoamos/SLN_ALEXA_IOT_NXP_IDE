@@ -1,0 +1,11 @@
+../mbedtls/amz_patch/net_sockets.c:137:6:mbedtls_net_init	0	static
+../mbedtls/amz_patch/net_sockets.c:145:5:mbedtls_net_connect	64	static
+../mbedtls/amz_patch/net_sockets.c:193:5:mbedtls_net_bind	80	static
+../mbedtls/amz_patch/net_sockets.c:314:5:mbedtls_net_accept	88	static
+../mbedtls/amz_patch/net_sockets.c:434:5:mbedtls_net_set_block	8	static
+../mbedtls/amz_patch/net_sockets.c:449:5:mbedtls_net_set_nonblock	8	static
+../mbedtls/amz_patch/net_sockets.c:467:6:mbedtls_net_usleep	32	static
+../mbedtls/amz_patch/net_sockets.c:487:5:mbedtls_net_recv	16	static
+../mbedtls/amz_patch/net_sockets.c:523:5:mbedtls_net_recv_timeout	56	static
+../mbedtls/amz_patch/net_sockets.c:567:5:mbedtls_net_send	16	static
+../mbedtls/amz_patch/net_sockets.c:603:6:mbedtls_net_free	8	static

@@ -1,0 +1,10 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:163:16:rmw_pages	40	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:32:18:iot_flash_open	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:42:9:iot_flash_close	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:52:17:iot_flash_getinfo	4	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:69:6:iot_flash_set_callback	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:77:9:iot_flash_erase_sectors	64	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:121:9:iot_flash_erase_chip	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:132:9:iot_flash_write_sync	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:381:9:iot_flash_read_sync	8	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_flash.c:398:9:iot_flash_ioctl	0	static

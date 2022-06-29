@@ -1,0 +1,4 @@
+../source/sln_time_utils.c:49:5:clock_gettime	32	static
+../source/sln_time_utils.c:80:5:gettimeofday	8	static
+../source/sln_time_utils.c:121:6:sntp_set_system_time	96	static
+../source/sln_time_utils.c:134:5:usleep	8	static

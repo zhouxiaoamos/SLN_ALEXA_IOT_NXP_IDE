@@ -1,0 +1,3 @@
+../drivers/fsl_gpio.c:111:6:GPIO_PinWrite	8	static
+../drivers/fsl_gpio.c:132:6:GPIO_PinSetInterruptConfig	4	static
+../drivers/fsl_gpio.c:71:6:GPIO_PinInit	16	static

@@ -1,0 +1,15 @@
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:80:13:_threadRoutineWrapper	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:93:6:Iot_CreateDetachedThread	32	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:136:6:IotMutex_Create	16	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:169:6:IotMutex_Destroy	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:180:6:prIotMutexTimedLock	16	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:205:6:IotMutex_Lock	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:212:6:IotMutex_TryLock	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:219:6:IotMutex_Unlock	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:240:6:IotSemaphore_Create	16	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:257:10:IotSemaphore_GetCount	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:273:6:IotSemaphore_Destroy	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:286:6:IotSemaphore_Wait	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:309:6:IotSemaphore_TryWait	8	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:322:6:IotSemaphore_TimedWait	16	static
+../freertos/libraries/abstractions/platform/freertos/iot_threads_freertos.c:348:6:IotSemaphore_Post	8	static

@@ -1,0 +1,2 @@
+../aws_ais/src/ais_smart_home_mode_controller.c:93:8:AIA_AlexaSmartHomeModeControllerCreateResponseContext	56	static
+../aws_ais/src/ais_smart_home_mode_controller.c:40:10:AIA_AlexaSmartHomeModeControllerHandler	48	static

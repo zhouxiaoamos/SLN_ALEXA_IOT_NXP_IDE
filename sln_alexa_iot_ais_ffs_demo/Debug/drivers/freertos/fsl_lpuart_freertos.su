@@ -1,0 +1,5 @@
+../drivers/freertos/fsl_lpuart_freertos.c:19:13:LPUART_RTOS_Callback	24	static
+../drivers/freertos/fsl_lpuart_freertos.c:68:5:LPUART_RTOS_Init	40	static
+../drivers/freertos/fsl_lpuart_freertos.c:176:5:LPUART_RTOS_Deinit	8	static
+../drivers/freertos/fsl_lpuart_freertos.c:213:5:LPUART_RTOS_Send	24	static
+../drivers/freertos/fsl_lpuart_freertos.c:276:5:LPUART_RTOS_Receive	48	static

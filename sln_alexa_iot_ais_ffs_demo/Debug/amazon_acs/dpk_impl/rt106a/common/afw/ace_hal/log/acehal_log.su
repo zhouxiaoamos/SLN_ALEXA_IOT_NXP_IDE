@@ -1,0 +1,5 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/log/acehal_log.c:70:9:aceLogHal_getPlatformProperty	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/log/acehal_log.c:85:9:aceLogHal_write	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/log/acehal_log.c:103:24:aceLogHal_readOpen	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/log/acehal_log.c:108:9:aceLogHal_read	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/log/acehal_log.c:113:14:aceLogHal_readClose	0	static

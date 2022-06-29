@@ -1,0 +1,7 @@
+../source/sln_iot_pkcs11_pal.c:81:6:prvLabelToFilenameHandle	16	static
+../source/sln_iot_pkcs11_pal.c:124:6:PKCS11_KeyGen	104	static
+../source/sln_iot_pkcs11_pal.c:218:18:PKCS11_PAL_SaveObject	16	static
+../source/sln_iot_pkcs11_pal.c:257:18:PKCS11_PAL_FindObject	16	static
+../source/sln_iot_pkcs11_pal.c:298:7:PKCS11_PAL_GetObjectValue	16	static
+../source/sln_iot_pkcs11_pal.c:394:6:PKCS11_PAL_GetObjectValueCleanup	8	static
+../source/sln_iot_pkcs11_pal.c:426:1:C_Initialize	0	static

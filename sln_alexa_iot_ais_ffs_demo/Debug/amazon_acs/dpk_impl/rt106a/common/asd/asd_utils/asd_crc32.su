@@ -1,0 +1,2 @@
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_utils/asd_crc32.c:120:1:asd_crc32_ietf	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_utils/asd_crc32.c:133:1:asd_crc32_mpeg	4	static

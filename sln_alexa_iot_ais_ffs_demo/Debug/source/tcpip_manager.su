@@ -1,0 +1,9 @@
+../source/tcpip_manager.c:30:19:TCPIP_MANAGER_init	8	static
+../source/tcpip_manager.c:43:19:TCPIP_MANAGER_start_sta_interface	48	static
+../source/tcpip_manager.c:114:19:TCPIP_MANAGER_quit_sta_interface	8	static
+../source/tcpip_manager.c:122:19:TCPIP_MANAGER_get_ip_sta_interface	4	static
+../source/tcpip_manager.c:142:19:TCPIP_MANAGER_get_ip_only_sta_interface	0	static
+../source/tcpip_manager.c:160:19:TCPIP_MANAGER_link_sta_up	8	static
+../source/tcpip_manager.c:166:19:TCPIP_MANAGER_link_sta_down	8	static
+../source/tcpip_manager.c:172:19:TCPIP_MANAGER_start_ap_interface	40	static
+../source/tcpip_manager.c:204:19:TCPIP_MANAGER_quit_ap_interface	8	static

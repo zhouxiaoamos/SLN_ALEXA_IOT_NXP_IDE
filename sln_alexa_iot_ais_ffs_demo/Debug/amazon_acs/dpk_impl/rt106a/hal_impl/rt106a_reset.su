@@ -1,0 +1,3 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_reset.c:16:6:iot_reset_reboot	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_reset.c:23:9:iot_reset_shutdown	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_reset.c:28:9:iot_get_reset_reason	0	static

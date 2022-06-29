@@ -1,0 +1,3 @@
+../audio/avs_sound_library/avs_sound_library.c:78:6:AVS_SOUNDS_Init	8	static
+../audio/avs_sound_library/avs_sound_library.c:86:6:AVS_SOUNDS_Deinit	8	static
+../audio/avs_sound_library/avs_sound_library.c:97:6:AVS_SOUNDS_LoadSounds	16	static

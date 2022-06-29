@@ -1,0 +1,2 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_device_info_setup.c:144:13:device_info_check_and_set_kvs_entry	32	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_device_info_setup.c:380:6:device_info_set_kvs_entries	48	static

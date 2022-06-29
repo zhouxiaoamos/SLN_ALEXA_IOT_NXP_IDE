@@ -1,0 +1,3 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/device_info/src/acehal_device_info.c:204:5:aceDeviceInfoDsHal_getEntry	64	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/device_info/src/acehal_device_info.c:233:14:internal_deviceInfo_prototype_setEntry	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/device_info/src/acehal_device_info.c:251:5:aceDeviceInfoDsHal_getEntrySize	136	static

@@ -1,0 +1,10 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:45:17:read_timer0	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:83:6:timer_IRQHandler	8	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:130:18:iot_timer_open	32	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:168:6:iot_timer_set_callback	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:182:9:iot_timer_start	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:206:9:iot_timer_stop	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:224:9:iot_timer_get_value	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:250:9:iot_timer_delay	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:270:9:iot_timer_close	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_timer.c:295:9:iot_timer_cancel	16	static

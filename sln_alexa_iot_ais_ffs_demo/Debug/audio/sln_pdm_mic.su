@@ -1,0 +1,6 @@
+../audio/sln_pdm_mic.c:50:6:PDM_MIC_DmaCallback	24	static
+../audio/sln_pdm_mic.c:91:18:PDM_MIC_GetSAIConfiguration	4	static
+../audio/sln_pdm_mic.c:147:18:PDM_MIC_Init	0	static
+../audio/sln_pdm_mic.c:156:18:PDM_MIC_ConfigMic	40	static
+../audio/sln_pdm_mic.c:283:6:PDM_MIC_StartMic	0	static
+../audio/sln_pdm_mic.c:302:6:PDM_MIC_StopMic	8	static

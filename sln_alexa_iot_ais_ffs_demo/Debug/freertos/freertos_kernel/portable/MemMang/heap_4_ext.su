@@ -1,0 +1,2 @@
+../freertos/freertos_kernel/portable/MemMang/heap_4_ext.c:32:7:pvPortCalloc	16	static
+../freertos/freertos_kernel/portable/MemMang/heap_4_ext.c:49:7:pvPortRealloc	24	static

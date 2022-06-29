@@ -1,0 +1,9 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:80:16:read_parse_key_pair	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:368:5:aceDhaHal_getPublicKey	40	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:317:5:aceDhaHal_generateKey	56	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:396:5:aceDhaHal_signData	48	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:431:5:aceDhaHal_verifyData	48	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:465:5:aceDhaHal_getField	72	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:576:5:aceDhaHal_setCertificate	704	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:641:14:aceDhaHal_open	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/acehal_dha.c:645:14:aceDhaHal_close	0	static

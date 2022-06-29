@@ -1,0 +1,13 @@
+../freertos/demos/network_manager/aws_iot_network_manager.c:530:13:_dispatchNetworkStateChangeCB	40	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:591:13:_onNetworkStateChangeCallback	48	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:690:12:AwsIotNetworkManager_Init	16	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:746:12:AwsIotNetworkManager_SubscribeForStateChange	32	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:776:12:AwsIotNetworkManager_RemoveSubscription	16	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:804:10:AwsIotNetworkManager_GetConfiguredNetworks	0	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:819:10:AwsIotNetworkManager_GetEnabledNetworks	8	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:840:10:AwsIotNetworkManager_GetConnectedNetworks	8	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:861:10:AwsIotNetworkManager_EnableNetwork	24	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:898:10:AwsIotNetworkManager_DisableNetwork	8	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:932:31:AwsIotNetworkManager_GetNetworkInterface	4	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:951:8:AwsIotNetworkManager_GetCredentials	4	static
+../freertos/demos/network_manager/aws_iot_network_manager.c:970:8:AwsIotNetworkManager_GetConnectionParams	4	static

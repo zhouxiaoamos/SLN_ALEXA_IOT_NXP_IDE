@@ -1,0 +1,17 @@
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:175:28:_validateThingNameFlags	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:583:13:_updatedCallbackWrapper	48	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:427:28:_modifyCallbackSubscriptions	120	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:575:13:_deltaCallbackWrapper	48	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:591:21:AwsIotShadow_Init	16	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:627:6:AwsIotShadow_Cleanup	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:655:21:AwsIotShadow_Delete	48	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:753:21:AwsIotShadow_Get	40	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:865:21:AwsIotShadow_Update	56	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:1014:21:AwsIotShadow_Wait	40	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:719:21:AwsIotShadow_TimedDelete	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:828:21:AwsIotShadow_TimedGet	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:982:21:AwsIotShadow_TimedUpdate	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:1124:14:AwsIotShadow_strerror	0	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:313:28:_setCallbackCommon.part.0	64	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:1106:21:AwsIotShadow_SetUpdatedCallback	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_api.c:1088:21:AwsIotShadow_SetDeltaCallback	32	static

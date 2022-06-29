@@ -1,0 +1,4 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_mempool_mgr.c:29:9:asd_mempool_mgr_init	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_mempool_mgr.c:39:9:asd_mempool_index_alloc	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_mempool_mgr.c:66:6:asd_mempool_index_free	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_mempool_mgr.c:79:6:asd_mempool_mgr_reset	0	static

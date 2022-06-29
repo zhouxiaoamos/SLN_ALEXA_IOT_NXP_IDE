@@ -1,0 +1,12 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:79:9:afw_cir_buf_write_nolock	48	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:117:9:afw_cir_buf_write_block	40	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:155:9:afw_cir_buf_write	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:169:9:afw_cir_buf_peek_nolock	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:197:9:afw_cir_buf_peek	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:212:9:afw_cir_buf_read_nolock	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:236:9:afw_cir_buf_read_block	40	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:271:9:afw_cir_buf_read	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:285:9:afw_cir_buf_get_rem_size	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:295:9:afw_cir_buf_get_data_size	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:304:9:afw_cir_buf_deinit	8	static
+../amazon_acs/dpk_impl/rt106a/common/afw/common/src/afw_cir_buf.c:34:16:afw_cir_buf_init	32	static

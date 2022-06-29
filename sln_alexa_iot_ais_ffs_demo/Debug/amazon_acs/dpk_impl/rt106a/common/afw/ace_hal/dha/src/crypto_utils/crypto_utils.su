@@ -1,0 +1,6 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:28:9:crypto_utils_gen_ecc_key_pair	1000	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:76:9:crypto_utils_dump_pri_key_der	40	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:123:9:crypto_utils_dump_pri_key_pem	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:153:9:crypto_utils_dump_pub_der	40	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:196:9:crypto_utils_ecdsa_sign	1016	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/crypto_utils/crypto_utils.c:260:9:crypto_utils_dump_csr_pem	1000	static

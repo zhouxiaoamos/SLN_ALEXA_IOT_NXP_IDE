@@ -1,0 +1,5 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr.c:38:14:aceFrHal_open	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr.c:64:6:aceFrHal_check	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr.c:70:6:aceFrHal_preOperation	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr.c:80:6:aceFrHal_postOperation	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr.c:89:14:aceFrHal_close	24	static

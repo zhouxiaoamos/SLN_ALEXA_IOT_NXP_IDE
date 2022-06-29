@@ -1,0 +1,4 @@
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_validate.c:42:6:_IotMqtt_ValidateConnect	32	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_validate.c:183:6:_IotMqtt_ValidatePublish	24	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_validate.c:316:6:_IotMqtt_ValidateOperation	16	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_validate.c:349:6:_IotMqtt_ValidateSubscriptionList	48	static

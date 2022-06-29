@@ -1,0 +1,15 @@
+../component/uart/lpuart_adapter.c:142:13:HAL_UartCallback	8	static
+../component/uart/lpuart_adapter.c:226:19:HAL_UartInit	48	static
+../component/uart/lpuart_adapter.c:310:19:HAL_UartDeinit	8	static
+../component/uart/lpuart_adapter.c:331:19:HAL_UartReceiveBlocking	8	static
+../component/uart/lpuart_adapter.c:353:19:HAL_UartSendBlocking	8	static
+../component/uart/lpuart_adapter.c:374:19:HAL_UartEnterLowpower	8	static
+../component/uart/lpuart_adapter.c:381:19:HAL_UartExitLowpower	0	static
+../component/uart/lpuart_adapter.c:398:19:HAL_UartTransferInstallCallback	8	static
+../component/uart/lpuart_adapter.c:415:19:HAL_UartTransferReceiveNonBlocking	8	static
+../component/uart/lpuart_adapter.c:431:19:HAL_UartTransferSendNonBlocking	8	static
+../component/uart/lpuart_adapter.c:447:19:HAL_UartTransferGetReceiveCount	8	static
+../component/uart/lpuart_adapter.c:463:19:HAL_UartTransferGetSendCount	8	static
+../component/uart/lpuart_adapter.c:478:19:HAL_UartTransferAbortReceive	8	static
+../component/uart/lpuart_adapter.c:491:19:HAL_UartTransferAbortSend	8	static
+../component/uart/lpuart_adapter.c:643:6:HAL_UartIsrFunction	8	static

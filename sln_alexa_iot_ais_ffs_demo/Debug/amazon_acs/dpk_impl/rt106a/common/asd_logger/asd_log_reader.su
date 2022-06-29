@@ -1,0 +1,8 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:46:19:log_reader_create	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:57:9:log_reader_setpos	24	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:99:9:log_reader_get_remaining_log_length	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:114:9:log_reader_read	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:131:6:log_reader_eof	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:137:9:log_reader_mark_read_flag	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:151:6:log_reader_destroy	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_reader.c:157:9:log_reader_backend_read_log_from_flash	128	static

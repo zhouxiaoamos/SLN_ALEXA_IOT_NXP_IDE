@@ -1,0 +1,3 @@
+../wiced/43xxx_Wi-Fi/WICED/internal/wifi.c:160:14:wiced_link_events_handler	16	static
+../wiced/43xxx_Wi-Fi/WICED/internal/wifi.c:97:16:wiced_wlan_connectivity_init	240	static
+../wiced/43xxx_Wi-Fi/WICED/internal/wifi.c:394:16:register_link_events	8	static

@@ -1,0 +1,6 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:31:9:port_dha_write_key_pair	24	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:47:9:port_dha_read_key_pair	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:58:9:port_dha_write_cert_chain	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:79:9:port_dha_read_cert_chain	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:107:9:port_dha_read_leaf_cert	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_kvs.c:125:9:port_dha_get_cert_chain_size	8	static

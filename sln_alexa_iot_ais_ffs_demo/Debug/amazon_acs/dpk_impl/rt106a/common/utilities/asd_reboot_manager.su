@@ -1,0 +1,4 @@
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reboot_manager.c:398:29:asd_reboot_manager_init	16	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reboot_manager.c:404:6:asd_reboot_manager_reboot	0	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reboot_manager.c:409:6:asd_reboot_manager_publish	0	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reboot_manager.c:414:6:asd_reboot_manager_dump	16	static

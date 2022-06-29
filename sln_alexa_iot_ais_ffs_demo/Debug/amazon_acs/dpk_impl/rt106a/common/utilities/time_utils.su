@@ -1,0 +1,10 @@
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:166:10:time_utils_get_microseconds	16	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:186:8:getRtcTimeSec	56	static
+d:\nxp\mcuxpressoide_11.5.0_7232\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.0.202107051138\tools\arm-none-eabi\include\time.h:56:12:clock	16	static
+d:\nxp\mcuxpressoide_11.5.0_7232\ide\plugins\com.nxp.mcuxpresso.tools.win32_11.5.0.202107051138\tools\arm-none-eabi\include\time.h:59:11:time	8	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:399:8:timegm	8	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:83:12:time_utils_settime_internal	32	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:128:5:time_utils_init	56	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:312:5:time_utils_settime	0	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:420:10:clock_gettime_ms	24	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/time_utils.c:430:6:clock_isset	0	static

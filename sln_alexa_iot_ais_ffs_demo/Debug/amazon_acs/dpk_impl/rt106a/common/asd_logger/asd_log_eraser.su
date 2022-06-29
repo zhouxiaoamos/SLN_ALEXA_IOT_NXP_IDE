@@ -1,0 +1,4 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_eraser.c:53:6:main_is_expired_cb	4	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_eraser.c:31:9:asd_logger_erase_flash_log	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_eraser.c:45:9:asd_logger_erase_all_flash_log	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_log_eraser.c:59:9:asd_logger_erase_expired_flash_log	24	static

@@ -1,0 +1,8 @@
+../source/ux_attention_system.c:131:6:ux_attention_task	64	static
+../source/ux_attention_system.c:904:6:ux_attention_task_Init	40	static
+../source/ux_attention_system.c:960:9:ux_attention_set_state	24	static
+../source/ux_attention_system.c:123:6:ux_speaking_alert_timer_cb	0	static
+../source/ux_attention_system.c:989:6:ux_attention_resume_state	8	static
+../source/ux_attention_system.c:72:6:UX_IRQHandler	24	static
+../source/ux_attention_system.c:1023:6:ux_attention_sys_fault	24	static
+../source/ux_attention_system.c:1050:23:ux_attention_get_state	0	static

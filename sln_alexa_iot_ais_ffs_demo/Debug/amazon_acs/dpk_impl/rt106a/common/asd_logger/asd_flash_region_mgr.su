@@ -1,0 +1,12 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:89:9:asd_flash_stream_write_frame	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:183:13:flash_mgr_cleanup.part.0	24	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:228:24:asd_flash_region_load_or_create_one.constprop	56	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:164:16:flash_stream_deinit	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:60:18:asd_flash_mgr_init	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:77:15:asd_flash_mgr_get_stream	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:82:6:asd_flash_mgr_deinit	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:106:9:asd_flash_read_raw_by_logid	12	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:119:9:asd_flash_write_raw_by_logid	12	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:132:22:asd_flash_mgr_get_buffer_by_log_id	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:142:21:asd_flash_mgr_get_buffer_data_type	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_flash_region_mgr.c:151:13:asd_logger_get_flash_partition_name	0	static

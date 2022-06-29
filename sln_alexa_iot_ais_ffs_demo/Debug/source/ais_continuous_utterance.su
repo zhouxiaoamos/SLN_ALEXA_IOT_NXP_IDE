@@ -1,0 +1,6 @@
+../source/ais_continuous_utterance.c:25:9:continuous_utterance_samples_add	8	static
+../source/ais_continuous_utterance.c:44:9:continuous_utterance_buffer_set	48	static
+../source/ais_continuous_utterance.c:163:10:get_ring_buffer	0	static
+../source/ais_continuous_utterance.c:168:10:get_ring_buffer_index	0	static
+../source/ais_continuous_utterance.c:173:6:reset_ring_buffer	0	static
+../source/ais_continuous_utterance.c:179:6:set_aux_backup_buffer	0	static

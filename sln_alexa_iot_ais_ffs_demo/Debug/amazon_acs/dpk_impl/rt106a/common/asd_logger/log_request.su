@@ -1,0 +1,2 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request.c:28:9:log_request_send_and_wait_completion	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request.c:47:9:asd_logger_flush_log	16	static

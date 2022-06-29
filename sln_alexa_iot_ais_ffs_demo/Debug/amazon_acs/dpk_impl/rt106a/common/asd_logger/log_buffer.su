@@ -1,0 +1,10 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:147:16:deinit	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:139:16:get_bytes_available	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:113:16:single_consumer_read_one_message	24	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:73:16:single_producer_write	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:94:16:multi_producers_write	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:159:21:log_buffer_create	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:179:9:log_buffer_read	4	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:188:9:log_buffer_write	4	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:197:9:log_buffer_get_free_size	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_buffer.c:204:6:log_buffer_destroy	0	static

@@ -1,0 +1,2 @@
+../freertos/libraries/freertos_plus/standard/utils/src/iot_pki_utils.c:39:5:PKI_mbedTLSSignatureToPkcs11Signature	16	static
+../freertos/libraries/freertos_plus/standard/utils/src/iot_pki_utils.c:114:5:PKI_pkcs11SignatureTombedTLSSignature	80	static

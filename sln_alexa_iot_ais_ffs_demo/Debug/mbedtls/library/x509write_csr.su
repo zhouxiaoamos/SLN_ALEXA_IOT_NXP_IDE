@@ -1,0 +1,10 @@
+../mbedtls/library/x509write_csr.c:57:6:mbedtls_x509write_csr_init	0	static
+../mbedtls/library/x509write_csr.c:62:6:mbedtls_x509write_csr_free	8	static
+../mbedtls/library/x509write_csr.c:70:6:mbedtls_x509write_csr_set_md_alg	0	static
+../mbedtls/library/x509write_csr.c:75:6:mbedtls_x509write_csr_set_key	0	static
+../mbedtls/library/x509write_csr.c:80:5:mbedtls_x509write_csr_set_subject_name	0	static
+../mbedtls/library/x509write_csr.c:86:5:mbedtls_x509write_csr_set_extension	16	static
+../mbedtls/library/x509write_csr.c:107:5:mbedtls_x509write_csr_set_key_usage	40	static
+../mbedtls/library/x509write_csr.c:133:5:mbedtls_x509write_csr_set_ns_cert_type	40	static
+../mbedtls/library/x509write_csr.c:163:5:mbedtls_x509write_csr_der	2712	static
+../mbedtls/library/x509write_csr.c:277:5:mbedtls_x509write_csr_pem	4136	static

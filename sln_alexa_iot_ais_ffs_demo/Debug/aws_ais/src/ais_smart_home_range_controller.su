@@ -1,0 +1,2 @@
+../aws_ais/src/ais_smart_home_range_controller.c:94:8:AIA_AlexaSmartHomeRangeControllerCreateResponseContext	56	static
+../aws_ais/src/ais_smart_home_range_controller.c:41:10:AIA_AlexaSmartHomeRangeControllerHandler	48	static

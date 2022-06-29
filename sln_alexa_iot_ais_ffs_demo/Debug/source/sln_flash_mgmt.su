@@ -1,0 +1,13 @@
+../source/sln_flash_mgmt.c:219:16:calc_crc_32	40	static
+../source/sln_flash_mgmt.c:98:16:set_file_size_info	0	static
+../source/sln_flash_mgmt.c:310:16:write_file	16	static
+../source/sln_flash_mgmt.c:59:16:get_file_info_from_name	24	static
+../source/sln_flash_mgmt.c:139:16:get_sector_file_map	24	static
+../source/sln_flash_mgmt.c:562:9:SLN_FLASH_MGMT_Init	96	static
+../source/sln_flash_mgmt.c:648:9:SLN_FLASH_MGMT_Save	48	static
+../source/sln_flash_mgmt.c:813:9:SLN_FLASH_MGMT_Update	40	static
+../source/sln_flash_mgmt.c:959:9:SLN_FLASH_MGMT_ReadDataPtr	32	static
+../source/sln_flash_mgmt.c:1081:9:SLN_FLASH_MGMT_Read	48	static
+../source/sln_flash_mgmt.c:1270:9:SLN_FLASH_MGMT_Erase	32	static
+../source/sln_flash_mgmt.c:1311:9:SLN_FLASH_MGMT_Deinit	24	static
+../source/sln_flash_mgmt.c:1365:9:SLN_FLASH_MGMT_SetCbs	0	static

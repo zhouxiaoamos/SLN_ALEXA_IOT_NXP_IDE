@@ -1,0 +1,5 @@
+../source/wifi_management.c:61:13:network_event_cb	8	static
+../source/wifi_management.c:42:13:network_service_ready_cb	8	static
+../source/wifi_management.c:85:15:wifi_init	24	static
+../source/wifi_management.c:169:15:wifi_connect	288	static
+../source/wifi_management.c:270:15:wifi_reconnect	8	static

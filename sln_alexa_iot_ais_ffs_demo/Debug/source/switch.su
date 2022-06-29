@@ -1,0 +1,2 @@
+../source/switch.c:112:6:GPIO2_Combined_0_15_IRQHandler	40	static
+../source/switch.c:124:6:switchInit	16	static

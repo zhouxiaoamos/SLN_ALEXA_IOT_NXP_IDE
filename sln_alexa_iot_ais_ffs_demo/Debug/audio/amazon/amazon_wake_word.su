@@ -1,0 +1,16 @@
+../audio/amazon/amazon_wake_word.c:708:13:vadCallback	0	static
+../audio/amazon/amazon_wake_word.c:714:13:detectionSelfWakeCallback	8	static
+../audio/amazon/amazon_wake_word.c:393:13:getWakeWordModelFromLocale	24	static
+../audio/amazon/amazon_wake_word.c:697:13:detectionCallback	8	static
+../audio/amazon/amazon_wake_word.c:95:10:SLN_AMAZON_WAKE_GetModelLocaleSize	0	static
+../audio/amazon/amazon_wake_word.c:100:8:SLN_AMAZON_WAKE_GetLocaleString	0	static
+../audio/amazon/amazon_wake_word.c:105:10:SLN_AMAZON_WAKE_SetModelLocale	8	static
+../audio/amazon/amazon_wake_word.c:148:20:SLN_AMAZON_GetSupportedLocales	0	static
+../audio/amazon/amazon_wake_word.c:153:6:SLN_AMAZON_WAKE_GetModelLocale	16	static
+../audio/amazon/amazon_wake_word.c:207:6:SLN_AMAZON_WAKE_SetWakeupDetectedParams	0	static
+../audio/amazon/amazon_wake_word.c:214:10:SLN_AMAZON_WAKE_IsWakeWordSupported	8	static
+../audio/amazon/amazon_wake_word.c:720:10:SLN_AMAZON_WAKE_SelfWakeInitialize	24	static
+../audio/amazon/amazon_wake_word.c:758:10:SLN_AMAZON_WAKE_Initialize	16	static
+../audio/amazon/amazon_wake_word.c:804:10:SLN_AMAZON_WAKE_Destroy	16	static
+../audio/amazon/amazon_wake_word.c:822:10:SLN_AMAZON_WAKE_ProcessWakeWordSelfWake	8	static
+../audio/amazon/amazon_wake_word.c:843:10:SLN_AMAZON_WAKE_ProcessWakeWord	16	static

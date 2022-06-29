@@ -1,0 +1,15 @@
+../aws_ais/src/ais_streamer.c:127:5:STREAMER_Read	24	static
+../aws_ais/src/ais_streamer.c:52:13:STREAMER_MessageTask	160	static
+../aws_ais/src/ais_streamer.c:179:5:STREAMER_Write	16	static
+../aws_ais/src/ais_streamer.c:195:10:STREAMER_GetQueued	16	static
+../aws_ais/src/ais_streamer.c:206:10:STREAMER_GetQueuedRaw	16	static
+../aws_ais/src/ais_streamer.c:212:10:STREAMER_SetLocalSound	16	static
+../aws_ais/src/ais_streamer.c:230:10:STREAMER_GetQueuedNotBlocking	0	static
+../aws_ais/src/ais_streamer.c:235:6:STREAMER_IsPlaying	0	static
+../aws_ais/src/ais_streamer.c:240:6:STREAMER_SetVolume	0	static
+../aws_ais/src/ais_streamer.c:251:6:STREAMER_Start	16	static
+../aws_ais/src/ais_streamer.c:259:10:STREAMER_Stop	24	static
+../aws_ais/src/ais_streamer.c:282:6:STREAMER_Pause	16	static
+../aws_ais/src/ais_streamer.c:292:10:STREAMER_Create	152	static
+../aws_ais/src/ais_streamer.c:364:6:STREAMER_Destroy	8	static
+../aws_ais/src/ais_streamer.c:372:6:STREAMER_Init	8	static

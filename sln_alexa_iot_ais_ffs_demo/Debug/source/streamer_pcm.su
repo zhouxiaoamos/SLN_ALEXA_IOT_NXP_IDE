@@ -1,0 +1,10 @@
+../source/streamer_pcm.c:19:6:streamer_pcm_init	8	static
+../source/streamer_pcm.c:29:13:streamer_pcm_open	8	static
+../source/streamer_pcm.c:38:6:streamer_pcm_start	0	static
+../source/streamer_pcm.c:44:6:streamer_pcm_clean	16	static
+../source/streamer_pcm.c:55:6:streamer_pcm_close	16	static
+../source/streamer_pcm.c:71:5:streamer_pcm_write	24	static
+../source/streamer_pcm.c:173:5:streamer_pcm_setparams	0	static
+../source/streamer_pcm.c:188:6:streamer_pcm_getparams	4	static
+../source/streamer_pcm.c:201:5:streamer_pcm_mute	8	static
+../source/streamer_pcm.c:207:5:streamer_pcm_set_volume	8	static

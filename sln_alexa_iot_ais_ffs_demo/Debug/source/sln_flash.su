@@ -1,0 +1,14 @@
+../source/sln_flash.c:193:17:SLN_Write_Flash_Page2	520	static
+../source/sln_flash.c:31:6:SLN_ram_memset	0	static
+../source/sln_flash.c:42:6:SLN_ram_memcpy	0	static
+../source/sln_flash.c:54:10:SLN_ram_disable_irq	0	static
+../source/sln_flash.c:67:6:SLN_ram_enable_irq	0	static
+../source/sln_flash.c:72:6:SLN_ram_disable_d_cache	8	static
+../source/sln_flash.c:107:6:SLN_ram_enable_d_cache	8	static
+../source/sln_flash.c:142:6:SLN_Flash_Init	16	static
+../source/sln_flash.c:164:10:SLN_Write_Flash_Page	536	static
+../source/sln_flash.c:223:9:SLN_Write_Sector	32	static
+../source/sln_flash.c:279:10:SLN_Erase_Sector	24	static
+../source/sln_flash.c:307:10:SLN_Write_Flash_At_Address	24	static
+../source/sln_flash.c:332:10:SLN_Read_Flash_At_Address	0	static
+../source/sln_flash.c:339:10:SLN_Flash_Get_Read_Address	0	static

@@ -1,0 +1,15 @@
+../drivers/fsl_snvs_hp.c:98:13:SNVS_HP_CheckDatetimeFormat	32	static
+../drivers/fsl_snvs_hp.c:130:17:SNVS_HP_ConvertDatetimeToSeconds	56	static
+../drivers/fsl_snvs_hp.c:160:13:SNVS_HP_ConvertSecondsToDatetime	32	static
+../drivers/fsl_snvs_hp.c:246:6:SNVS_HP_Init	0	static
+../drivers/fsl_snvs_hp.c:260:6:SNVS_HP_Deinit	0	static
+../drivers/fsl_snvs_hp.c:277:6:SNVS_HP_RTC_Init	8	static
+../drivers/fsl_snvs_hp.c:303:6:SNVS_HP_RTC_Deinit	0	static
+../drivers/fsl_snvs_hp.c:325:6:SNVS_HP_RTC_GetDefaultConfig	8	static
+../drivers/fsl_snvs_hp.c:362:10:SNVS_HP_RTC_SetDatetime	16	static
+../drivers/fsl_snvs_hp.c:399:6:SNVS_HP_RTC_GetDatetime	8	static
+../drivers/fsl_snvs_hp.c:420:10:SNVS_HP_RTC_SetAlarm	16	static
+../drivers/fsl_snvs_hp.c:465:6:SNVS_HP_RTC_GetAlarm	8	static
+../drivers/fsl_snvs_hp.c:484:6:SNVS_HP_RTC_TimeSynchronize	0	static
+../drivers/fsl_snvs_hp.c:509:10:SNVS_HP_RTC_GetStatusFlags	0	static
+../drivers/fsl_snvs_hp.c:534:10:SNVS_HP_RTC_GetEnabledInterrupts	0	static

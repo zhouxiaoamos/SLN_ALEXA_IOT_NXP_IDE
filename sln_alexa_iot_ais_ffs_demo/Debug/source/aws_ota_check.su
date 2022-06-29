@@ -1,0 +1,7 @@
+../source/aws_ota_check.c:113:16:fica_clear_ota_bit	520	static
+../source/aws_ota_check.c:311:19:prvOTAPublishCallback	32	static
+../source/aws_ota_check.c:258:13:sendRejectOtaJobStatus	296	static
+../source/aws_ota_check.c:372:10:OTA_Init	24	static
+../source/aws_ota_check.c:393:10:OTA_Connect	272	static
+../source/aws_ota_check.c:421:10:OTA_Disconnect	152	static
+../source/aws_ota_check.c:618:6:ota_task	8	static

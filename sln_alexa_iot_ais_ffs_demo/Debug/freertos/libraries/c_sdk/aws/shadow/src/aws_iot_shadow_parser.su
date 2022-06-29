@@ -1,0 +1,3 @@
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_parser.c:140:26:_AwsIotShadow_ParseShadowStatus	8	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_parser.c:191:21:_AwsIotShadow_ParseErrorDocument	56	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_parser.c:251:21:_AwsIotShadow_ParseThingName	24	static

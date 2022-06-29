@@ -1,0 +1,12 @@
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:108:32:_getTokenType	0	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:176:13:_skipWhiteSpacesAndDelimeters	16	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:690:13:_isEndOfContainer	0	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:780:29:_stepOut	8	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:610:29:_stepIn	40	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:813:13:_destroy	8	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:199:13:parseContainer	40	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:281:29:parseTokenValue	48	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:746:29:_next	32	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:707:29:_get	32	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:584:29:_find	80	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_decoder.c:542:29:_init	24	static

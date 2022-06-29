@@ -1,0 +1,8 @@
+../source/iot_freertos_init.c:110:13:_onNetworkStateChangeCallback	32	static
+../source/iot_freertos_init.c:59:28:demoGetMqttSerializer	0	static
+../source/iot_freertos_init.c:265:6:runDemoTask	40	static
+../source/iot_freertos_init.c:345:6:vApplicationMallocFailedHook	8	static
+../source/iot_freertos_init.c:363:6:vApplicationStackOverflowHook	8	static
+../source/iot_freertos_init.c:375:7:pvPortCalloc	16	static
+../source/iot_freertos_init.c:391:6:vApplicationGetIdleTaskMemory	4	static
+../source/iot_freertos_init.c:417:6:vApplicationGetTimerTaskMemory	4	static

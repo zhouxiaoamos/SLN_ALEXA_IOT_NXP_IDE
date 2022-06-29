@@ -1,0 +1,13 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:111:10:asd_log_request_add_ref.part.0	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:40:9:asd_log_request_queue_init	16	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:68:6:asd_log_request_queue_deinit	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:81:20:asd_log_request_alloc	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:98:6:asd_log_request_free	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:111:10:asd_log_request_add_ref	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:141:6:asd_log_request_is_canceling	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:148:26:asd_log_request_hold_resource	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:164:6:asd_log_request_unhold_resource	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:171:9:asd_log_request_complete	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:211:9:asd_log_request_send	24	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:232:9:asd_log_request_wait_completion	32	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/log_request_queue.c:118:9:asd_log_request_cancel	8	static

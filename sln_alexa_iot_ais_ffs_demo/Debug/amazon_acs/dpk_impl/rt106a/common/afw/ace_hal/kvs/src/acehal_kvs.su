@@ -1,0 +1,11 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:58:13:is_group_valid	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:104:20:getKeyName	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:122:21:ace_kvs_set_wrapper	80	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:143:6:aceKeyValueDsHal_init	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:147:14:aceKeyValueDsHal_set	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:151:14:aceKeyValueDsHal_setWithEncryption	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:155:14:aceKeyValueDsHal_remove	80	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:176:5:aceKeyValueDsHal_get	80	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:203:5:aceKeyValueDsHal_getValueSize	72	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:228:14:aceKeyValueDsHal_eraseGroup	48	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/kvs/src/acehal_kvs.c:245:14:aceKeyValueDsHal_listKeys	16	static

@@ -1,0 +1,6 @@
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:182:6:Utils_generateMD5Hash	160	static
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:373:14:getDeviceIdentifier.part.0	48	static
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:404:14:getDeviceMetrics.part.0	24	static
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:373:14:getDeviceIdentifier	8	static
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:404:14:getDeviceMetrics	8	static
+../freertos/libraries/c_sdk/standard/common/iot_device_metrics.c:428:10:getDeviceMetricsLength	8	static

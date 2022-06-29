@@ -1,0 +1,2 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/wifi/src/wifi_profile_migration.c:58:6:aceWifiHal_profile_v1_to_v2	160	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/wifi/src/wifi_profile_migration.c:94:6:aceWifiHal_profile_remove_v1	0	static

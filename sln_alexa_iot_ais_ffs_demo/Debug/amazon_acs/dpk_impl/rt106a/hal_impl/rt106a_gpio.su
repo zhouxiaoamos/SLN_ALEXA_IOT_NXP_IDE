@@ -1,0 +1,6 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:78:17:iot_gpio_open	48	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:263:9:iot_gpio_ioctl	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:435:6:iot_gpio_set_callback	40	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:454:9:iot_gpio_read_sync	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:470:9:iot_gpio_write_sync	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_gpio.c:500:9:iot_gpio_close	56	static

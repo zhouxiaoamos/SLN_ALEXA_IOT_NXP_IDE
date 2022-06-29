@@ -1,0 +1,4 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_ram.c:30:9:port_dha_write_key_pair	8	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_ram.c:40:9:port_dha_read_key_pair	8	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_ram.c:49:9:port_dha_write_cert_chain	8	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/dha/src/port/port_dha_storage_ram.c:58:9:port_dha_read_cert_chain	16	static

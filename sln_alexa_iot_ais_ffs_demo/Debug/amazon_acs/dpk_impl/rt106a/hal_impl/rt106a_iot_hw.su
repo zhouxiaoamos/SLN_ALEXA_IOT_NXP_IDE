@@ -1,0 +1,2 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_hw.c:28:10:iot_hw_get_id	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_hw.c:33:10:iot_hw_get_rev	0	static

@@ -1,0 +1,12 @@
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:317:13:prvDisconnectCallbackWrapper	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:203:13:prvPublishCallbackWrapper	64	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:438:21:MQTT_AGENT_Getv2Connection	0	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:447:12:MQTT_AGENT_Init	8	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:462:23:MQTT_AGENT_Create	16	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:517:23:MQTT_AGENT_Delete	8	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:544:23:MQTT_AGENT_Connect	136	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:658:23:MQTT_AGENT_Disconnect	8	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:680:23:MQTT_AGENT_Subscribe	80	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:731:23:MQTT_AGENT_Unsubscribe	72	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:764:23:MQTT_AGENT_Publish	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_agent.c:790:23:MQTT_AGENT_ReturnBuffer	8	static

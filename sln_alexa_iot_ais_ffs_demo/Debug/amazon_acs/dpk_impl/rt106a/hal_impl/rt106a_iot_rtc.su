@@ -1,0 +1,7 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:37:6:SNVS_HP_WRAPPER_IRQHandler	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:51:16:iot_rtc_open	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:79:9:iot_rtc_set_datetime	16	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:109:9:iot_rtc_get_datetime	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:137:6:iot_rtc_set_callback	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:148:9:iot_rtc_ioctl	24	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_iot_rtc.c:235:9:iot_rtc_close	8	static

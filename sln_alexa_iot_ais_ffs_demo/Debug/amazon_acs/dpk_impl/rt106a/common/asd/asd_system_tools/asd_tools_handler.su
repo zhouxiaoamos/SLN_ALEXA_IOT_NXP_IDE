@@ -1,0 +1,5 @@
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_system_tools/asd_tools_handler.c:56:6:asd_tools_update_cb	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_system_tools/asd_tools_handler.c:89:6:asd_tools_crashdump_sync	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_system_tools/asd_tools_handler.c:110:6:asd_tools_trigger_upload_crashdump	0	static
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_system_tools/asd_tools_handler.c:119:9:asd_tools_trigger_upload_log	8	static
+../amazon_acs/dpk_impl/rt106a/common/asd/asd_system_tools/asd_tools_handler.c:150:6:asd_tools_init	8	static

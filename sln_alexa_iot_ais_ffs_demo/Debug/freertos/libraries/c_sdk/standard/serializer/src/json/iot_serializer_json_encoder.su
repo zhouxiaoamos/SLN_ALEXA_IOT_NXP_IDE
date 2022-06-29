@@ -1,0 +1,12 @@
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:429:13:_appendData	40	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:542:13:_destroy	8	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:507:29:_init	16	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:640:29:_closeContainer	16	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:289:15:_getSerializedLength.constprop	0	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:774:15:_getExtraBufferSizeNeeded	0	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:753:15:_getEncodedSize	0	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:675:29:_append	16	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:489:13:_appendJsonKeyValuePair	24	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:596:29:_openContainerWithKey	40	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:713:29:_appendKeyValue	32	static
+../freertos/libraries/c_sdk/standard/serializer/src/json/iot_serializer_json_encoder.c:554:29:_openContainer	24	static

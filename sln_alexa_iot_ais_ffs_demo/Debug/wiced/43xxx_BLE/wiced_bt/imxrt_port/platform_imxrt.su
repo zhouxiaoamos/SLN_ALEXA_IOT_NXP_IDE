@@ -1,0 +1,11 @@
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:85:6:ble_pwr_on	8	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:95:6:ble_pwr_off	8	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:104:5:imxrt_bt_uart_init	8	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:126:5:imxrt_bt_uart_deinit	8	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:135:5:imxrt_bt_uart_set_baudrate	16	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:141:5:imxrt_bt_uart_write	0	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:156:5:imxrt_bt_uart_read	0	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:175:7:bte_port_malloc	16	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:192:6:bte_port_free	0	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:201:6:platform_set_nvm	4	static
+../wiced/43xxx_BLE/wiced_bt/imxrt_port/platform_imxrt.c:211:17:platform_get_nvm	0	static

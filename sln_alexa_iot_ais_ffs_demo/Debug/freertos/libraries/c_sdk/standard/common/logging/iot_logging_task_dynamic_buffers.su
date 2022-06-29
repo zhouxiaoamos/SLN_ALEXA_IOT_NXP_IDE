@@ -1,0 +1,4 @@
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging_task_dynamic_buffers.c:111:13:prvLoggingTask	16	static
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging_task_dynamic_buffers.c:81:12:xLoggingTaskInitialize	32	static
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging_task_dynamic_buffers.c:136:6:vLoggingPrintf	40	static
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging_task_dynamic_buffers.c:227:6:vLoggingPrint	24	static

@@ -1,0 +1,8 @@
+../source/aws_iot_demo_shadow.c:261:13:_removeResponseUpdateDocument	8	static
+../source/aws_iot_demo_shadow.c:226:13:_getUpdatedState	40	static
+../source/aws_iot_demo_shadow.c:573:13:_shadowUpdatedCallback	40	static
+../source/aws_iot_demo_shadow.c:185:13:_getDelta	40	static
+../source/aws_iot_demo_shadow.c:449:13:_shadowDeltaCallback	88	static
+../source/aws_iot_demo_shadow.c:729:5:SendUpdateShadowDemo	24	static
+../source/aws_iot_demo_shadow.c:762:5:ConfigShadowDemo	32	static
+../source/aws_iot_demo_shadow.c:811:5:RunShadowDemo	64	static

@@ -1,0 +1,17 @@
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:600:9:_IotMqtt_GetPacketType	16	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:615:8:_IotMqtt_GetRemainingLength	32	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:672:16:_IotMqtt_SerializeConnect	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:891:16:_IotMqtt_DeserializeConnack	24	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1022:16:_IotMqtt_SerializePublish	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1160:6:_IotMqtt_PublishSetDup	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1195:16:_IotMqtt_DeserializePublish	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1396:16:_IotMqtt_SerializePuback	24	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1432:16:_IotMqtt_DeserializePuback	24	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1489:16:_IotMqtt_SerializeSubscribe	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1583:16:_IotMqtt_DeserializeSuback	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1686:16:_IotMqtt_SerializeUnsubscribe	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1776:16:_IotMqtt_DeserializeUnsuback	24	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1833:16:_IotMqtt_SerializePingreq	4	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1855:16:_IotMqtt_DeserializePingresp	16	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1894:16:_IotMqtt_SerializeDisconnect	4	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_serialize.c:1916:6:_IotMqtt_FreePacket	0	static

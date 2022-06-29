@@ -1,0 +1,2 @@
+../source/main.c:106:6:SysTick_DelayTicks	0	static
+../source/main.c:212:6:main	80	static

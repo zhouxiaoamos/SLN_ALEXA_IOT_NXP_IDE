@@ -1,0 +1,2 @@
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging.c:191:6:IotLog_Generic	40	static
+../freertos/libraries/c_sdk/standard/common/logging/iot_logging.c:399:6:IotLog_GenericPrintBuffer	40	static

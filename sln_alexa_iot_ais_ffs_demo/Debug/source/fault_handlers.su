@@ -1,0 +1,12 @@
+../source/fault_handlers.c:200:13:UsageFault_Handler_StatusRegisterDecode.isra	8	static
+../source/fault_handlers.c:147:13:BusFault_Handler_StatusRegisterDecode.isra	16	static
+../source/fault_handlers.c:100:13:MemManageFault_Handler_StatusRegisterDecode.isra	16	static
+../source/fault_handlers.c:73:13:HardFault_Handler_StatusRegisterDecode.isra	24	static
+../source/fault_handlers.c:50:13:Fault_StackDump.isra	80	static
+../source/fault_handlers.c:391:13:fault_context_set	24	static
+../source/fault_handlers.c:242:6:HardFault_Handler	160	static
+../source/fault_handlers.c:271:6:MemManage_Handler	144	static
+../source/fault_handlers.c:286:6:BusFault_Handler	144	static
+../source/fault_handlers.c:301:6:UsageFault_Handler	144	static
+../source/fault_handlers.c:443:9:fault_context_erase	96	static
+../source/fault_handlers.c:316:13:fault_context_print	248	static

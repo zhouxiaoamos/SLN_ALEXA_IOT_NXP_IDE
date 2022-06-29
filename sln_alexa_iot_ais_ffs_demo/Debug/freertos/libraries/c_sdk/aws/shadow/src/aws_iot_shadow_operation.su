@@ -1,0 +1,10 @@
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:159:13:_shadowOperation_match	40	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:433:21:_AwsIotShadow_CreateOperation	40	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:494:6:_AwsIotShadow_DestroyOperation	16	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:526:21:_AwsIotShadow_GenerateShadowTopic	64	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:610:21:_AwsIotShadow_ProcessOperation	104	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:824:6:_AwsIotShadow_Notify	56	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:223:13:_commonOperationCallback	64	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:422:13:_updateCallback	0	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:365:13:_getCallback	0	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_operation.c:354:13:_deleteCallback	0	static

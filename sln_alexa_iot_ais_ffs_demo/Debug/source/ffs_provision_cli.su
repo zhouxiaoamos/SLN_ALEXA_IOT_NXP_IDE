@@ -1,0 +1,9 @@
+../source/ffs_provision_cli.c:611:31:ffsprovision_execute_cmd_on_provision_task	32	static
+../source/ffs_provision_cli.c:107:31:ffsprovision_device_info_convert_entry	8	static
+../source/ffs_provision_cli.c:766:31:ffsprovision_check_command	24	static
+../source/ffs_provision_cli.c:646:13:ffsprovision_stop_task	24	static
+../source/ffs_provision_cli.c:525:13:ffsprovision_provision_task_handler	56	static
+../source/ffs_provision_cli.c:796:24:FFSPROVISION_register_command	40	static
+../source/ffs_provision_cli.c:943:24:FFSPROVISION_execute_command	32	static
+../source/ffs_provision_cli.c:995:6:FFSPROVISION_set_ready	0	static
+../source/ffs_provision_cli.c:1000:6:FFSPROVISION_get_done	0	static

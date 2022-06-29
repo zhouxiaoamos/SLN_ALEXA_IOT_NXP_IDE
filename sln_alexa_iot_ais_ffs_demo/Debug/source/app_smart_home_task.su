@@ -1,0 +1,5 @@
+../source/app_smart_home_task.c:33:6:AIS_AppCallback_PowerController	16	static
+../source/app_smart_home_task.c:69:6:AIS_AppCallback_ToggleController	16	static
+../source/app_smart_home_task.c:105:6:AIS_AppCallback_RangeController	16	static
+../source/app_smart_home_task.c:142:6:AIS_AppCallback_ModeController	16	static
+../source/app_smart_home_task.c:178:6:AIS_AppCallback_BrightnessController	16	static

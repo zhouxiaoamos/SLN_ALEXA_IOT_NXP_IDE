@@ -1,0 +1,3 @@
+../mbedtls/library/hkdf.c:54:5:mbedtls_hkdf_extract	96	static
+../mbedtls/library/hkdf.c:84:5:mbedtls_hkdf_expand	136	static
+../mbedtls/library/hkdf.c:33:5:mbedtls_hkdf	168	static

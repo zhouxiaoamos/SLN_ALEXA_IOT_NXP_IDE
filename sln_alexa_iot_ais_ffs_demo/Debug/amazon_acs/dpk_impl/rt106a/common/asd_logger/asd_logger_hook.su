@@ -1,0 +1,5 @@
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_logger_hook.c:39:36:asd_get_pc	4	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_logger_hook.c:44:9:asd_log_logger	276	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_logger_hook.c:53:6:asd_log_base_logger	288	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_logger_hook.c:71:9:asd_log_logger_v	280	static
+../amazon_acs/dpk_impl/rt106a/common/asd_logger/asd_logger_hook.c:82:6:asd_log_option_filtering	16	static

@@ -1,0 +1,14 @@
+../aws_ais/src/ais_smart_home_interface.c:593:13:AIA_SmartHomeTask	24	static
+../aws_ais/src/ais_smart_home_interface.c:321:10:AIA_AlexaSmartHomeBuildTemplate.part.0	64	static
+../aws_ais/src/ais_smart_home_interface.c:223:8:AIA_DiscoveryEndpointGetAddOrUpdateReportJson	80	static
+../aws_ais/src/ais_smart_home_interface.c:49:10:AIA_AlexaSmartHomeInit	80	static
+../aws_ais/src/ais_smart_home_interface.c:321:10:AIA_AlexaSmartHomeBuildTemplate	0	static
+../aws_ais/src/ais_smart_home_interface.c:359:10:AIA_AlexaSmartHomeAddOrUpdateReport	16	static
+../aws_ais/src/ais_smart_home_interface.c:373:10:AIA_AlexaSmartHomeStateReport	32	static
+../aws_ais/src/ais_smart_home_interface.c:398:10:AIA_AlexaSmartHomeResponse	32	static
+../aws_ais/src/ais_smart_home_interface.c:423:10:AIA_AlexaSmartHomeChangeReport	24	static
+../aws_ais/src/ais_smart_home_interface.c:445:10:AIA_AlexaSmartHomeDeferredResponse	0	static
+../aws_ais/src/ais_smart_home_interface.c:470:10:AIA_AlexaSmartHomeErrorResponse	32	static
+../aws_ais/src/ais_smart_home_interface.c:495:32:AIA_SmartHomeGetEndpoint	24	static
+../aws_ais/src/ais_smart_home_interface.c:511:10:_AIA_SmartHomeHandleReportState	40	static
+../aws_ais/src/ais_smart_home_interface.c:183:10:AIA_AlexaSmartHomeHandler	32	static

@@ -1,0 +1,11 @@
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:647:6:_IotMqtt_ProcessKeepAlive	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:96:13:_mqttOperation_match	16	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:778:6:_IotMqtt_ProcessIncomingPublish	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:318:16:_IotMqtt_CreateOperation	48	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:465:6:_IotMqtt_DecrementOperationReferences	48	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:541:6:_IotMqtt_DestroyOperation	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:1012:6:_IotMqtt_ProcessCompletedOperation	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:1052:16:_IotMqtt_ScheduleOperation	48	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:1100:20:_IotMqtt_FindOperation	56	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:1209:6:_IotMqtt_Notify	40	static
+../freertos/libraries/c_sdk/standard/mqtt/src/iot_mqtt_operation.c:829:6:_IotMqtt_ProcessSend	48	static

@@ -1,0 +1,3 @@
+../source/perf.c:54:6:PERF_PrintHeap	8	static
+../source/perf.c:59:6:PERF_PrintStack	16	static
+../source/perf.c:64:6:PERF_PrintStacks	40	static

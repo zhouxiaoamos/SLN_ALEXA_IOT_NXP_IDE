@@ -1,0 +1,4 @@
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_perfcounter.c:15:6:iot_perfcounter_open	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_perfcounter.c:20:10:iot_perfcounter_get_value	8	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_perfcounter.c:25:10:iot_perfcounter_get_frequency	0	static
+../amazon_acs/dpk_impl/rt106a/hal_impl/rt106a_perfcounter.c:30:6:iot_perfcounter_close	0	static

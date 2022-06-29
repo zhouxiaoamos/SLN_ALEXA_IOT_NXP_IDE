@@ -1,0 +1,7 @@
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:83:12:flash_erase_partition	48	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:125:5:aceFrHalMgr_erase_user_partitions	16	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:135:6:aceFrHalMgr_is_resetting	56	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:108:6:aceFrHalMgr_init	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:157:5:aceFrHalMgr_set_breadcrumb	32	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:187:5:aceFrHalMgr_execute_callback	0	static
+../amazon_acs/dpk_impl/rt106a/common/afw/ace_hal/factory_reset/src/acehal_fr_mgr.c:196:5:aceFrHalMgr_register_user_callback	4	static

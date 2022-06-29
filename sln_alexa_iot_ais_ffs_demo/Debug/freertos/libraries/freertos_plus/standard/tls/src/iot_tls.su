@@ -1,0 +1,12 @@
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:168:12:prvNetworkSend	0	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:188:12:prvNetworkRecv	0	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:208:12:prvGenerateRandomBytes	8	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:239:12:prvCheckCertificate	88	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:317:12:prvPrivateKeySigningCallback	304	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:137:13:prvFreeContext.part.0	16	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:425:12:prvReadCertificateIntoContext.constprop	32	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:693:12:TLS_Init	16	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:763:12:TLS_Connect	80	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:951:12:TLS_Recv	24	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:1000:12:TLS_Send	32	static
+../freertos/libraries/freertos_plus/standard/tls/src/iot_tls.c:1052:6:TLS_Cleanup	8	static

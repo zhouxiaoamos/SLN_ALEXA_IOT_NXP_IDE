@@ -1,0 +1,9 @@
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_ais_ffs_demo\amazon_acs\dpk_impl\rt106a\common\mbedtls/threading_alt.h:61:19:threading_mutex_unlock_freertos	8	static
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_ais_ffs_demo\amazon_acs\dpk_impl\rt106a\common\mbedtls/threading_alt.h:50:19:threading_mutex_lock_freertos	8	static
+../source/app_init.c:385:13:_main_task	184	static
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_ais_ffs_demo\amazon_acs\dpk_impl\rt106a\common\mbedtls/threading_alt.h:41:20:threading_mutex_free_freertos	8	static
+C:\Users\amos.zhou\Documents\MCUXpressoIDE_11.5.0_7232\workspace\sln_alexa_iot_ais_ffs_demo\amazon_acs\dpk_impl\rt106a\common\mbedtls/threading_alt.h:33:20:threading_mutex_init_freertos	8	static
+../source/app_init.c:90:6:TEST_ABORT	0	static
+../source/app_init.c:328:6:is_device_locked	0	static
+../source/app_init.c:447:5:create_main_task	16	static
+../source/app_init.c:462:6:system_early_init	8	static

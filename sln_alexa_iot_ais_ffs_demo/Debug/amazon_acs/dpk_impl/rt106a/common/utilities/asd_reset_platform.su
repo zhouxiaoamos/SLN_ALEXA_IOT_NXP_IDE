@@ -1,0 +1,3 @@
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reset_platform.c:51:21:asd_reset_reboot_cli	8	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reset_platform.c:34:6:asd_reset_reboot	16	static
+../amazon_acs/dpk_impl/rt106a/common/utilities/asd_reset_platform.c:62:21:asd_reset_flash_cli	8	static

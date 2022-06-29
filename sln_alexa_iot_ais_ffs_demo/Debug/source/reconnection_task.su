@@ -1,0 +1,12 @@
+../source/reconnection_task.c:111:6:ais_app_disconnect_timeout_cb	0	static
+../source/reconnection_task.c:120:6:ais_app_reconnect_timeout_cb	0	static
+../source/reconnection_task.c:129:6:ais_app_ais_connect_timeout_cb	0	static
+../source/reconnection_task.c:138:6:ais_app_ais_disconnect_timeout_cb	0	static
+../source/reconnection_task.c:147:6:ais_app_ota_connect_timeout_cb	0	static
+../source/reconnection_task.c:156:6:ais_app_ota_disconnect_timeout_cb	0	static
+../source/reconnection_task.c:165:6:ais_app_net_recv_running_check_timeout_cb	16	static
+../source/reconnection_task.c:226:13:reconnect_state_machine.constprop	808	static
+../source/reconnection_task.c:531:6:reconnectionTask	32	static
+../source/reconnection_task.c:643:6:reconnection_task_set_event	8	static
+../source/reconnection_task.c:660:18:reconnection_task_get_state	0	static
+../source/reconnection_task.c:665:9:reconnection_task_init	32	static

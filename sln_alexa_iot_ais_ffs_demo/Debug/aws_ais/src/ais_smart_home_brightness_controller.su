@@ -1,0 +1,2 @@
+../aws_ais/src/ais_smart_home_brightness_controller.c:93:8:AIA_AlexaSmartHomeBrightnessControllerCreateResponseContext	56	static
+../aws_ais/src/ais_smart_home_brightness_controller.c:40:10:AIA_AlexaSmartHomeBrightnessControllerHandler	48	static

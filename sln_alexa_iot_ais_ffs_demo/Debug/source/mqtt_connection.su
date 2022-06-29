@@ -1,0 +1,5 @@
+../source/mqtt_connection.c:46:19:APP_MQTT_Getv2Handle	0	static
+../source/mqtt_connection.c:58:19:APP_MQTT_GetHandle	0	static
+../source/mqtt_connection.c:63:19:APP_MQTT_GetOtaHandle	0	static
+../source/mqtt_connection.c:72:23:APP_MQTT_Connect	80	static
+../source/mqtt_connection.c:153:6:APP_MQTT_Disconnect	8	static

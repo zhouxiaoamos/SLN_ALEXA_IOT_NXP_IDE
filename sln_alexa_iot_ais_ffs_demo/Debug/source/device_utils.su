@@ -1,0 +1,5 @@
+../source/device_utils.c:46:28:APP_GetHexUniqueID	48	static
+../source/device_utils.c:66:28:APP_GetUniqueID	48	static
+../source/device_utils.c:115:28:PKCS11_KeyGen	0	static
+../source/device_utils.c:120:31:BUTTON_MSDPressed	0	static
+../source/device_utils.c:126:31:BUTTON_OTWPressed	0	static

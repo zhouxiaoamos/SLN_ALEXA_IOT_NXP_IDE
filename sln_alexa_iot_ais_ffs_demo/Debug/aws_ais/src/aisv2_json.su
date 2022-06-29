@@ -1,0 +1,11 @@
+../aws_ais/src/aisv2_json.c:47:6:AIA_build_uuid	32	static
+../aws_ais/src/aisv2_json.c:58:8:JSON_BuildHeader	72	static
+../aws_ais/src/aisv2_json.c:75:13:JSON_BuildEvent	40	static
+../aws_ais/src/aisv2_json.c:109:8:JSON_BuildCapability	16	static
+../aws_ais/src/aisv2_json.c:121:8:JSON_BuildCapabilitySpeaker	24	static
+../aws_ais/src/aisv2_json.c:149:8:JSON_BuildCapabilityMicrophone	16	static
+../aws_ais/src/aisv2_json.c:162:8:JSON_BuildCapabilityAlerts	16	static
+../aws_ais/src/aisv2_json.c:173:8:JSON_BuildCapabilitySmartHomeAvs	0	static
+../aws_ais/src/aisv2_json.c:178:8:JSON_BuildCapabilityClock	0	static
+../aws_ais/src/aisv2_json.c:183:8:JSON_BuildCapabilitySystem	32	static
+../aws_ais/src/aisv2_json.c:223:8:JSON_BuildRegistration	24	static

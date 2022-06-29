@@ -1,0 +1,8 @@
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:105:13:_shadowSubscription_match	16	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:132:28:_modifyOperationSubscriptions	80	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:196:25:_AwsIotShadow_FindSubscription	40	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:257:6:_AwsIotShadow_RemoveSubscription	32	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:328:6:_AwsIotShadow_DestroySubscription	8	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:342:21:_AwsIotShadow_IncrementReferences	72	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:461:6:_AwsIotShadow_DecrementReferences	64	static
+../freertos/libraries/c_sdk/aws/shadow/src/aws_iot_shadow_subscription.c:552:21:AwsIotShadow_RemovePersistentSubscriptions	72	static

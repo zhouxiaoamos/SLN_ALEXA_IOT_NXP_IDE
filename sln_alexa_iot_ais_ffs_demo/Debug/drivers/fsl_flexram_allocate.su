@@ -1,0 +1,2 @@
+../drivers/fsl_flexram_allocate.c:70:6:FLEXRAM_SetTCMSize	8	static
+../drivers/fsl_flexram_allocate.c:108:10:FLEXRAM_AllocateRam	32	static
